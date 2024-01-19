@@ -23,6 +23,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 to run android and ios:
 
 - android : npx cap open android
-- ios npx cap open ios
+- ios : npx cap open ios
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
