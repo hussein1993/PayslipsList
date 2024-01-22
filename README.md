@@ -3,6 +3,8 @@
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i` | 'npm install'
+to install the required packages
 
 ### `npm start` 
 
